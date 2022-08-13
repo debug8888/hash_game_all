@@ -4,7 +4,7 @@
 
 
 
-# 需要的联系飞机账号 @tt88pay 请备注hash游戏 是github看到的
+# 需要的联系飞机账号 @ttt88pay 请备注hash游戏 是github看到的
 
 
 
