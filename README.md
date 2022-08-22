@@ -1,6 +1,7 @@
 
 # hash_game_all
-# hash赌博 hash游戏 哈希双龙 幸运哈希 哈希牛魔王 庄闲合 各种游戏玩法
+# hash赌博 hash游戏 哈希双龙 幸运哈希 哈希牛魔王 庄闲合 各种游戏玩法  usdt赌博， 转usdt 回USDT 转TRX回TRX 交易hash赌 交易hash
+
 
 
 
