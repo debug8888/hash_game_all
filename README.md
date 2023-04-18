@@ -12,35 +12,44 @@
 
 # 游戏截图
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=c75c3114d211a35fced1f0765a471f98)
-
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=03fcec59c55de45a70e9619a593a3eb1)
+![](img/1.png)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=0b434c0d8d73a0a67b77a15d902e3f38)
+![](img/2.png)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=da0b91952018d9953fb8f39c44eb4612)
+![](img/3.png)
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=dde22779c92e0b7236684b56cbc9ee06)
 
+![](img/4.png)
+
+
+![](img/5.png)
 
 # 后台截图 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=3b1461d480208c64386baf7a1ae36495)
+![](img/admin_1.png)
+
+![](img/admin_2.png)
 
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=4740f4a3c1c524e1ca5e5446fe25a43c)
+![](img/admin_3.png)
 
 
+![](img/admin_4.png)
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=355ca2c311d3fe24f7538979db640da4)
+![](img/admin_5.png)
+
+![](img/admin_6.png)
+
+![](img/admin_7.png)
 
 
+# 说明
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=88dcd4f2dabfb4adf6f71844e63b9773)
+## 1：上面的系统所展示的可能有时候满足不了所有客户的需求， 但是这边也可以进行定制开发。具体定制费用， 请联系技术。这边是一手代码直接和技术联系 没有中间商。 没有中间商。 没有中间商。 没有中间商。
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=53b263050ae782fa47962fd8d6e19032)
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=d1ff696d4107d2d07cabf4070b87ef69)
+## 2：市面有可能有和我这个系统一模一样的，那就是盗版，有可能是其他客户购买以后泄漏出去的，最好不要买盗版的，很多的未知问题。
 
-![](https://www.showdoc.com.cn/server/api/attachment/visitFile?sign=109d46868e8a86330497ff4f82cb3050)
+## 3：代码开源 无加密 支持二次开发。 到时购买之后不放心 可以自行验证检查。
+
