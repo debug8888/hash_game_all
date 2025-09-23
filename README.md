@@ -3,9 +3,10 @@
 # hash赌博 hash游戏 哈希双龙 幸运哈希 哈希牛魔王 庄闲合 各种游戏玩法  usdt赌博， 转usdt 回USDT 转TRX回TRX 交易hash赌 交易hash
 
 
+# 联系方式
+[看我的个人资料有联系方式](https://github.com/debug8888)
 
-
-# 需要的联系飞机账号 @ttt88pay 请备注hash游戏 是github看到的
+# 需要的联系飞机账号 请备注hash游戏 是github看到的
 
 
 
